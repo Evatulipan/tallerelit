@@ -1,0 +1,38 @@
+body {
+    background-color: #365C75;
+}
+.menu{
+font-size: 2em;
+color:WHITE;
+font-family: "DM Sans", sans-serif;
+}
+h2{
+    color:#FA5D6B;
+    font-size: 3em;
+    font-family: "Libre Baskerville", serif;
+    margin-left: 20px;
+}
+h3 {
+    color:#B07731;
+    font-size: 2em;
+    font-family: "DM Sans", sans-serif;
+}
+hr{
+    color:#FA5D6B;
+}
+p{
+    color:white;
+    font-size: 1em;
+    font-family: "DM Sans", sans-serif;
+}
+li {
+    color:white;
+    font-family: "DM Sans", sans-serif;
+}
+a {
+    color: #07A0F0;
+    font-family: "DM Sans", sans-serif;
+}
+.root{
+    margin-left: 40px;
+}
